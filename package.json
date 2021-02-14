@@ -1,0 +1,33 @@
+{
+  "name": "project-two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunguru98/CyptoStar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunguru98/CyptoStar/issues"
+  },
+  "homepage": "https://github.com/sunguru98/CyptoStar#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "truffle-hdwallet-provider": "1.0.2",
+    "@solidity-parser/parser": "0.11.1",
+    "openzeppelin-solidity": "2.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity": "1.0.0-beta.5"
+  }
+}
