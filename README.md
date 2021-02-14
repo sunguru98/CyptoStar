@@ -10,7 +10,7 @@ A simple ethereum blockchain based Smart contract/Front end app to buy and share
 - OpenZeppelin version -> **v2.1.2**
 - ERC721 Token Name -> **Sun Star Notary**
 - ERC721 Token Symbol -> **SSN**
-- Token Address ->
+- Token Address -> 0xbe033c1A688Ff026929184B52BC227e98CC61c88
 
 ## Installation
 
